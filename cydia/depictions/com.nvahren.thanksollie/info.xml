@@ -13,11 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>It's gonna rain!
-
-			Replace Dark Sky rain notification sound with Ollie Williams saying "It's gonna rain!"
-
-			Requires Dark Sky from the app store, and requires Dark Sky's "Next Hour Precipitation" notification to be enabled</description>
+		<description>Replace Dark Sky rain notification sound with Ollie Williams saying "It's gonna rain!" Requires Dark Sky from the app store, and requires Dark Sky's "Next Hour Precipitation" notification to be enabled.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
