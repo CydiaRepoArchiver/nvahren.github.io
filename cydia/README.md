@@ -1,1 +1,1 @@
-_eNVious Cydia reposity
+_eNVious Cydia repository
