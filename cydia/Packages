@@ -1,0 +1,27 @@
+Package: com.nvahren.timeout
+Version: 1.0.0
+Section: Tweaks
+Maintainer: _eNVious <nvahren@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.nvahren.timeout_1.0.0-1_iphoneos-arm.deb
+Size: 8732
+MD5sum: 8596d38787fa0d6769db3e48762539a0
+Description: Add a customizable timeout when refreshing Cydia sources
+Name: Timeout
+Author: _eNVious <nvahren@gmail.com>
+Depiction: https://nvahren.github.io/cydia/depictions/?p=com.nvahren.timeout
+
+Package: com.nvahren.thanksollie
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: _eNVious <nvahren@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.nvahren.thanksollie_1.0.1-1_iphoneos-arm.deb
+Size: 59398
+MD5sum: 83a7b359fec71bbac68377ea7166d9a7
+Description: It's gonna rain!
+Name: Thanks Ollie
+Author: _eNVious <nvahren@gmail.com>
+Depiction: https://nvahren.github.io/cydia/depictions/?p=com.nvahren.thanksollie
