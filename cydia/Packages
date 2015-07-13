@@ -1,0 +1,31 @@
+Package: com.nvahren.thanksollie
+Version: 1.0.1-1
+Section: Tweaks
+Maintainer: _eNVious
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.nvahren.thanksollie_1.0.1-1_iphoneos-arm.deb
+Size: 59398
+Installed-Size: 124
+MD5sum: 83a7b359fec71bbac68377ea7166d9a7
+Description: Replace Dark Sky rain alert sound with Ollie Williams (Family Guy) saying "It's gonna rain!" Requires "Dark Sky" from the App Store.
+Name: ThanksOllie
+Author: _eNVious
+
+Package: com.nvahren.timeout
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: _eNVious
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.nvahren.timeout_1.0.0-1_iphoneos-arm.deb
+Size: 8732
+Installed-Size: 160
+MD5sum: 8596d38787fa0d6769db3e48762539a0
+Description: Customizable Cydia source refresh timeout
+ 
+ 
+ Tired of Cydia sources that take forever to refresh? This tweak adds a timeout to sources that take too long. Default timeout is 5 seconds.
+Name: Timeout
+Author: _eNVious
+
