@@ -10,8 +10,8 @@ size2=`wc -c Packages.bz2 | sed 's/[[:space:]].*//'`
 cp {r,R}elease
 
 echo MD5SUM: >> Release
-echo " `md5 Packages | sed "s/  / $size /"`" >> Release
-echo " `md5 Packages.bz2 | sed "s/  / $size2 /"`" >> Release
+echo " `md5sum Packages | sed "s/  / $size /"`" >> Release
+echo " `md5sum Packages.bz2 | sed "s/  / $size2 /"`" >> Release
 
 echo SHA1: >> Release
 echo " `shasum -a 1 Packages | sed "s/  / $size /"`" >> Release
