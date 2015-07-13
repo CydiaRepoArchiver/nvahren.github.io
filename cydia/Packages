@@ -12,15 +12,15 @@ Name: ThanksOllie
 Author: _eNVious
 
 Package: com.nvahren.timeout
-Version: 1.0.0-1
+Version: 0.0.1-23
 Section: Tweaks
 Maintainer: _eNVious
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.nvahren.timeout_1.0.0-1_iphoneos-arm.deb
-Size: 8732
-Installed-Size: 160
-MD5sum: 8596d38787fa0d6769db3e48762539a0
+Filename: ./debs/com.nvahren.timeout_0.0.1-23_iphoneos-arm.deb
+Size: 6098
+Installed-Size: 84
+MD5sum: 965024bb302ad0496e8b22e63695df6f
 Description: Customizable Cydia source refresh timeout
  
  
