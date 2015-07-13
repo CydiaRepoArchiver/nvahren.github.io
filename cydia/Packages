@@ -28,3 +28,20 @@ Description: Customizable Cydia source refresh timeout
 Name: Timeout
 Author: _eNVious
 
+Package: com.nvahren.timeout
+Version: 0.0.1-24
+Section: Tweaks
+Maintainer: _eNVious
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.nvahren.timeout_0.0.1-24_iphoneos-arm.deb
+Size: 6272
+Installed-Size: 84
+MD5sum: 23b04d2084461690b5c82d356ab24ae4
+Description: Customizable Cydia source refresh timeout
+ 
+ 
+ Tired of Cydia sources that take forever to refresh? This tweak adds a timeout to sources that take too long. Default timeout is 5 seconds.
+Name: Timeout
+Author: _eNVious
+
