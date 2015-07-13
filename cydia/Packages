@@ -1,13 +1,12 @@
 Package: com.nvahren.thanksollie
-Version: 1.0.1-1
+Version: 1.0.1
 Section: Tweaks
 Maintainer: _eNVious
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.nvahren.thanksollie_1.0.1-1_iphoneos-arm.deb
-Size: 59398
-Installed-Size: 124
-MD5sum: 83a7b359fec71bbac68377ea7166d9a7
+Filename: ./debs/com.nvahren.thanksollie_1.0.1-2_iphoneos-arm.deb
+Size: 58672
+MD5sum: 973b74e33fa97fc2481e703e8ffaf52e
 Description: Replace Dark Sky rain alert sound with Ollie Williams (Family Guy) saying "It's gonna rain!" Requires "Dark Sky" from the App Store.
 Name: ThanksOllie
 Author: _eNVious
